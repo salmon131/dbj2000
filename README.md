@@ -17,4 +17,4 @@
 - 2020.07 ~ IBM C:LOUDERs
 - 2020.03 ~ 07. 교내 머신러닝 동아리 SAI - pytorch 딥러닝 스터디 Moning팀
 
-[![HyunYoung's github stats](https://github-readme-stats.vercel.app/api?username=dbj2000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![HyunYoung's github stats](https://github-readme-stats.vercel.app/api?username=dbj2000&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
