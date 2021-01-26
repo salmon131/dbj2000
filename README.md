@@ -22,7 +22,7 @@
 
 ### Contact
 - 📫 <dbj2000@naver.com>  <jindaebeom@gamil.com> 
-- ℹ️ <linkedin.com/in/hyun-young-jin-140b391a6>
+- ℹ️ ![](linkedin.com/in/hyun-young-jin-140b391a6)
 
 
 [![HyunYoung's github stats](https://github-readme-stats.vercel.app/api?username=dbj2000&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
